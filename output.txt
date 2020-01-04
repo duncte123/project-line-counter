@@ -1,0 +1,7 @@
+Project: project-line-counter
+/mnt/coding/java/project-line-counter/src/main/java/me
+/mnt/coding/java/project-line-counter/src/main/java/me/duncte123
+/mnt/coding/java/project-line-counter/src/main/java/me/duncte123/linecounter
+/mnt/coding/java/project-line-counter/src/main/java/me/duncte123/linecounter/Main.java
+File Main.java has 103 lines of code.
+Project project-line-counter has a total line count of 103 lines with a file total of 1 files
